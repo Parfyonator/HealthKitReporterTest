@@ -2,10 +2,6 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:health_kit_reporter/health_kit_reporter.dart';
-import 'package:health_kit_reporter/model/payload/heartbeat_series.dart';
-import 'package:health_kit_reporter/model/payload/preferred_unit.dart';
-import 'package:health_kit_reporter/model/payload/quantity.dart';
-import 'package:health_kit_reporter/model/predicate.dart';
 import 'package:health_kit_reporter/model/type/quantity_type.dart';
 
 import './widgets.dart';
